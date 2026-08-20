@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: https://github.com/retem91/sheetrus-releases/releases/download/electron-v1.0.0/sheetrus-electron-1.0.0-setup.exe
+    sha512: HKNgPrtTFrtCAv4G12eAjfy9vdvjVhU21uybJFacMGY3LTcNF8svcq019gE0CdHK1DpYb/7xf6GbUT+YOO/9lg==
+    size: 110769438
+path: sheetrus-electron-1.0.0-setup.exe
+sha512: HKNgPrtTFrtCAv4G12eAjfy9vdvjVhU21uybJFacMGY3LTcNF8svcq019gE0CdHK1DpYb/7xf6GbUT+YOO/9lg==
+releaseDate: 2026-08-20T06:29:31.844Z
