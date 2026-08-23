@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - url: https://github.com/retem91/sheetrus-releases/releases/download/electron-v1.0.1/sheetrus-electron-1.0.1-arm64-mac.zip
+    sha512: yYew9U1bc2hEHSoMGIrOw27lRwf7HwFEYtJnaU6COhMSC7kVa/o7O/EtqFCQe9EvCX9QeLleUMxG80JejRCWkQ==
+    size: 130044152
+path: sheetrus-electron-1.0.1-arm64-mac.zip
+sha512: yYew9U1bc2hEHSoMGIrOw27lRwf7HwFEYtJnaU6COhMSC7kVa/o7O/EtqFCQe9EvCX9QeLleUMxG80JejRCWkQ==
+releaseDate: 2026-08-23T22:22:40.100Z
