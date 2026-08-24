@@ -1,8 +1,8 @@
-version: 1.0.3
+version: 1.0.4
 files:
-  - url: https://github.com/retem91/sheetrus-releases/releases/download/electron-v1.0.3/sheetrus-win-release-1.0.3.exe
-    sha512: GfcMd6A7FXXYePHfujUxi5N1HjN67DhVTa2yyCTOWjFzvQjDVUum1h85LvtUnhxlUfQnD+oa0LgFe/f39TVaGg==
-    size: 110776610
-path: sheetrus-win-release-1.0.3.exe
-sha512: GfcMd6A7FXXYePHfujUxi5N1HjN67DhVTa2yyCTOWjFzvQjDVUum1h85LvtUnhxlUfQnD+oa0LgFe/f39TVaGg==
-releaseDate: 2026-08-24T09:49:14.373Z
+  - url: https://github.com/retem91/sheetrus-releases/releases/download/electron-v1.0.4/sheetrus-win-release-1.0.4.exe
+    sha512: jBVduRPIRlIqswrXl38Tu4rdDM7e8a4JI7Y8YYqSbj3W4QYpMiRrxsg86parsXT6u4abIjBClx00wxm8QVBgwg==
+    size: 110777176
+path: sheetrus-win-release-1.0.4.exe
+sha512: jBVduRPIRlIqswrXl38Tu4rdDM7e8a4JI7Y8YYqSbj3W4QYpMiRrxsg86parsXT6u4abIjBClx00wxm8QVBgwg==
+releaseDate: 2026-08-24T15:23:14.154Z
