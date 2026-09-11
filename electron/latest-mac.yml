@@ -1,8 +1,8 @@
 version: 1.0.8
 files:
   - url: https://github.com/retem91/sheetrus-releases/releases/download/electron-v1.0.8/sheetrus-mac-release-1.0.8.zip
-    sha512: B+bXJ+9gPrgjrEc8aWb4lBJ6g/0+lU0IcjbJz7tVT2dkrU2qH6bpMjis2498PB5onyK1AAczBazelaMTrb3aPw==
-    size: 144961420
+    sha512: Mtohrr/rSBmcavN2/AMSfuKhxixztvg0rEpSrU8et5L+/YiOxHgFrLcf6tT73RReOJu6OjZgoQtG+sTjqXiQ6g==
+    size: 144980844
 path: sheetrus-mac-release-1.0.8.zip
-sha512: B+bXJ+9gPrgjrEc8aWb4lBJ6g/0+lU0IcjbJz7tVT2dkrU2qH6bpMjis2498PB5onyK1AAczBazelaMTrb3aPw==
-releaseDate: 2026-09-11T00:51:06.000Z
+sha512: Mtohrr/rSBmcavN2/AMSfuKhxixztvg0rEpSrU8et5L+/YiOxHgFrLcf6tT73RReOJu6OjZgoQtG+sTjqXiQ6g==
+releaseDate: 2026-09-11T00:58:54.000Z
